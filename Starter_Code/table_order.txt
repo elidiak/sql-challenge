@@ -1,6 +1,6 @@
 Titles
-Salaries
 Employees
+Salaries
 Departments
 Dept_Emp
 Dept_Manager
